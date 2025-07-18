@@ -47,6 +47,19 @@ Lorebit Studio developed all smart contracts, deployment scripts, verification s
 
 ---
 
+## 🚀 Use Cases
+
+Although this implementation is demonstrated with simple account registration, the **ReferralSystem + AccountManager** architecture is flexible and can be integrated into various on-chain and hybrid systems, such as:
+
+- 📈 Token sales & ICOs — reward users who refer others to buy tokens.
+- 🛒 NFT marketplaces — reward referrers when someone they invite purchases an NFT.
+- 🎮 Web3 games — reward players for bringing in new players or guild members.
+- 🏦 DeFi platforms — reward users who onboard liquidity providers or stakers.
+- 👨‍🏫 Learning platforms — reward learners who refer classmates or colleagues.
+- 🧩 Any dApp — where incentivized growth via referrals makes sense.
+
+You can adapt the commission mechanism, referral tracking, and claiming logic to fit specific business needs — supporting ERC20, ERC721, ERC1155, or even off-chain actions that are validated on-chain.
+
 ## 🌐 Deployments
 
 ### 🧪 Testnet – Base Sepolia
