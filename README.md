@@ -60,6 +60,8 @@ Although this implementation is demonstrated with simple account registration, t
 
 You can adapt the commission mechanism, referral tracking, and claiming logic to fit specific business needs — supporting ERC20, ERC721, ERC1155, or even off-chain actions that are validated on-chain.
 
+---
+
 ## 🌐 Deployments
 
 ### 🧪 Testnet – Base Sepolia
